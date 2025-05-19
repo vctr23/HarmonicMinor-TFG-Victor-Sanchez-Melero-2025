@@ -1,0 +1,6 @@
+[submodule "HarmonicMinor"]
+	path = HarmonicMinor
+	url = https://github.com/vctr23/HarmonicMinor.git
+[submodule "HarmonicMinorAngular"]
+	path = HarmonicMinorAngular
+	url = https://github.com/vctr23/HarmonicMinorAngular.git
